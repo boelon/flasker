@@ -1,4 +1,4 @@
 Create a Flask blog
 https://www.youtube.com/watch?v=y62Dvo2Ml7o&list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz&index=4
 
-Videos 1–7 complete
+Videos 1–14 complete
